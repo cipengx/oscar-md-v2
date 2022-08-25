@@ -5,13 +5,13 @@
 // RECODE BY OSCAR OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6285716583868','79609055704'] 
+global.owner = ['6285716583868','6281585328096'] 
 global.mods = [''] 
 global.prems = ['6285716583868'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'ᴹᴿ᭄ DitNgtod꧂'
-global.numberowner = '6285716583868','79609055704',
+global.numberowner = '6285716583868','6281585328096',
 global.instagram = 'https://instagram.com/Jarotr_'
 global.github = 'https://github.com/Alpiii22'
 global.Youtube = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
@@ -44,9 +44,9 @@ global.fotonya8 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //foto ses
 global.donasi = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '❋ཻུ۪۪⸙Dark-MD⳹ ❋ཻུ۪۪'
+global.wm = '❋ཻུ۪۪⸙DitNgtod❋ཻུ۪۪'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜ𝐉𝐚𝐫𝐨𝐭_𝙊𝙛𝙛cོ1꧅'
+global.wm2 = 'ᯤ creator by 'PengxHY'
 global.wm3 = 'ᯤ 𝐉𝐚𝐫𝐨𝐭 𝙾𝙵𝙲'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -57,8 +57,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'Darkbotz'
-global.author = '@Jarot'
+global.packname = 'DitNgtod'
+global.author = 'LagiBerak'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
